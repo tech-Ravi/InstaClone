@@ -1,4 +1,5 @@
 
+
 # My InstaClone
 
 This is Instagram Clone for Insta Feed using JAVA.
@@ -6,6 +7,8 @@ This is Instagram Clone for Insta Feed using JAVA.
 
 # DEMO
 ![Alt Text](https://github.com/tech-Ravi/InstaClone/blob/master/gif_instaclone.gif)
+
+[Download APK](https://github.com/tech-Ravi/InstaClone/blob/master/app-debug.apk "download")
 ## 🛠 Skills
 JAVA, Android SDK, Git...
 
